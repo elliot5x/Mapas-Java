@@ -54,7 +54,7 @@ public class Main {
         mapa.addMouseWheelListener(new ZoomMouseWheelListenerCursor(mapa));
 
         // Minha janelona braba
-        JFrame frame = new JFrame("Marque's Map");
+        JFrame frame = new JFrame("Marques's Map");
 
         frame.getContentPane().add(mapa);
         frame.setSize(800, 600);
